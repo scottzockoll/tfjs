@@ -1,5 +1,4 @@
 {
-  "version": "0.0.1",
   "devDependencies": {
     "@octokit/rest": "15.17.0",
     "@types/argparse": "^1.0.38",
